@@ -27,8 +27,8 @@ border: 1px solid #ffeeba;
 border-radius: 4px;
 }
 .caixa3 {
-width: 300px;
-min-height: 150px;
-max-width: 90%;
-background: lightgray;
+width: 400px;
+min-height: 300px;
+max-width: 100%;
+background: rgb(140, 103, 103);
 }
