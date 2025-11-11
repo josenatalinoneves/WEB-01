@@ -1,0 +1,34 @@
+{
+  "frutas": [
+    "ABACAXI",
+    "MELANCIA",
+    "BANANA",
+    "MORANGO",
+    "UVA",
+    "LARANJA",
+    "PERA",
+    "MANGA",
+    "GOIABA",
+    "CEREJA"
+  ],
+  "animais": [
+    "ELEFANTE",
+    "GIRAFA",
+    "TIGRE",
+    "RINOCERONTE",
+    "ZEBRA",
+    "CACHORRO",
+    "GATO",
+    "PAPAGAIO"
+  ],
+  "cores": [
+    "AMARELO",
+    "AZUL",
+    "VERMELHO",
+    "ROXO",
+    "LARANJA",
+    "VERDE",
+    "BRANCO",
+    "PRETO"
+  ]
+}
